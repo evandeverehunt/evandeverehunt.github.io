@@ -1,0 +1,118 @@
+h1{
+
+
+}
+
+h2{
+
+}
+
+h3{
+
+	padding-top: 5px;
+
+
+}
+
+h4{
+
+}
+
+body {
+	font-family: sans-serif;
+	background-color: #f6f6f6;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 50px;
+	line-height: 1.4em;
+
+
+}
+
+
+.paper{
+	display: block;
+	padding-left:60px;
+	padding-right:60px;
+	padding-top:60px;
+	padding-bottom:60px;
+	background: white;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+	
+}
+
+
+
+.container{
+padding-left: 40px;
+padding-right: 40px;
+}
+
+.subtitle{
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+.avatar{
+	padding-bottom: 25px;
+	font-size: 13px;
+    color: #8f919d;
+    margin-top: 4px;
+
+}
+
+.avatar_photo{
+	margin-right: 10px;
+	float: left;
+	vertical-align: middle;
+	width: 42px;
+	height: 42px;
+	border-radius: 50%;
+	border: 2px solid #8f919d;	
+}
+
+.autor_name{
+	 font-weight: bold;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 0px;
+  margin-top: 10px ;
+  padding: 0.5em;
+  font-size: 18px;
+
+
+}
+blockquote:before {
+  color: #ccc;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+.glossary {
+	padding-top:60px;
+	font-size: 28px;
+
+}
+
+.where_next{
+	padding-bottom:60px;
+
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+}
+
+
+
+
+
